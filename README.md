@@ -2,7 +2,7 @@
 Dit bevat alle scripts die gebruikt werden in mijn praktische proef.
 
 Volledige scripts:
-  Digitaal_ontvanger.ino
+Digitaal_ontvanger.ino
   Digitaal_zender.ino
 
 Niet-gedocumenteerde tests:
